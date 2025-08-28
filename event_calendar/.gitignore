@@ -1,0 +1,28 @@
+.env
+# PyCharm
+.idea/
+*.iml
+*.iws
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# VS Code settings (if any)
+.vscode/
